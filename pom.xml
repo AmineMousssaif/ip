@@ -25,6 +25,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-thymeleaf</artifactId>
+            <version>3.0.10</version>
         </dependency>
         <dependency>
             <groupId>org.thymeleaf.extras</groupId>
@@ -33,6 +34,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
+            <version>3.0.5</version>
         </dependency>
         <dependency>
             <groupId>org.hibernate.validator</groupId>
@@ -64,6 +66,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-security</artifactId>
+            <version>3.0.9</version>
 
         </dependency>
         <dependency>
